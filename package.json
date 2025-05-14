@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/democrat5000/namaste-swiggy/issues"
   },
-  "homepage": "https://github.com/democrat5000/namaste-swiggy#readme"
+  "homepage": "https://github.com/democrat5000/namaste-swiggy#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  }
 }
