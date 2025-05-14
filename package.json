@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "swiggy food delivery app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/democrat5000/namaste-swiggy.git"
+  },
+  "author": "stephen barry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/democrat5000/namaste-swiggy/issues"
+  },
+  "homepage": "https://github.com/democrat5000/namaste-swiggy#readme"
+}
