@@ -1,3 +1,6 @@
+import React from "react"
+import ReactDOM from "react-dom/client"
+
 const e = React.createElement
 const r = ReactDOM.createRoot(document.getElementById("root"))
 

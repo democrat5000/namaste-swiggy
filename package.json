@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "swiggy food delivery app",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "rm -rf .parcel-cache && parcel index.html",
+    "build": "rm -rf .parcel-cache && parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -15,7 +17,9 @@
     "url": "https://github.com/democrat5000/namaste-swiggy/issues"
   },
   "homepage": "https://github.com/democrat5000/namaste-swiggy#readme",
-  "devDependencies": {
+   "browserslist": ["> .25% in US", "last 2 versions"],
+ 
+   "devDependencies": {
     "parcel": "^2.15.0"
   },
   "dependencies": {
