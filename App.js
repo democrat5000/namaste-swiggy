@@ -2,11 +2,11 @@ import React from "react"
 import ReactDOM from "react-dom/client"
 
 const Heading1 = ()=> {
-  return(<h1 className="heading1" style={{fontSize:"4rem", padding:"5px"}}>I am an h1 element</h1>)
+  return(<h1 className="heading1" style={{fontSize:"4rem", padding:"5px", textAlign:"center"}}>I am an h1 element</h1>)
 }
 
 const Heading2 = ()=> {
-  return(<h2 className="heading2"  style={{fontSize:"2rem", padding:"5px"}}>I am an h2 element</h2>)
+  return(<h2 className="heading2"  style={{fontSize:"2rem", padding:"5px", textAlign:"center"}}>I am an h2 element</h2>)
 }
 
 const Child1 = ()=> {

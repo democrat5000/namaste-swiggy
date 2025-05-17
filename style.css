@@ -1,6 +1,7 @@
 
 
 body{
+width: 100vw;
 background-color: rgb(46, 246, 183);
 margin: 5px;
 }
@@ -11,6 +12,10 @@ margin: 5px;
 
 html, body {
   overflow-x: hidden;
+}
+
+h1, h2 {
+  width: 100%;
 }
 
 
