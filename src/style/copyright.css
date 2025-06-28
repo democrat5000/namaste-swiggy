@@ -1,0 +1,16 @@
+
+
+.copyright {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  height: 10rem;
+  margin: 1rem;
+  align-items:start;
+  justify-content: left;
+}
+
+.logo-footer {
+  width: 4rem;
+  height: 2rem;
+}

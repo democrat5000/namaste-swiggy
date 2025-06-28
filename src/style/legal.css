@@ -1,0 +1,15 @@
+
+.legal {
+  width: 15%;
+  margin: 1rem;
+}
+
+.legal > h6 {
+  margin: 1rem;
+}
+
+.legal > a {
+  display: flex;
+  flex-direction: column;
+   padding: .1rem;
+}

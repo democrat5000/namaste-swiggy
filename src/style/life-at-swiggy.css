@@ -1,0 +1,28 @@
+
+
+.life-at-swiggy {
+  width: 15%;
+  height: 10rem;
+  margin: 1rem;
+}
+
+.life-at-swiggy > h2 {
+  margin: 1rem;
+}
+
+.life-at-swiggy > a {
+  display: flex;
+  flex-direction: column;
+   padding: .1rem;
+}
+
+.life-at-swiggy > h2 {
+  font-weight: bold;
+  margin: 1rem;
+}
+
+.legal > a {
+  display: flex;
+  flex-direction: column;
+   padding: .1rem;
+}
