@@ -2,6 +2,7 @@
 .legal {
   width: 15%;
   margin: 1rem;
+  padding-top: 1rem;
 }
 
 .legal > h6 {
