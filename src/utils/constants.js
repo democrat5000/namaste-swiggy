@@ -2,8 +2,6 @@
 
 export const BANNER_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1002,h_600/v1678428358/portal/m/seo_web/dweb_header.png";
 
-
-
 // ===========COPYRIGHT-LOGO-FOOTER==============
 // ===========COPYRIGHT-LOGO-HEADER==============
 export const LOGO_SRC_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_260/portal/m/seo/Logos/Swiggy/Swiggy%20logo-2.png";
@@ -43,3 +41,7 @@ export const FACEBOOK_URL = "https://www.facebook.com/swiggy.in";
 export const FACEBOOK_SRC_URL = "https://cdn-icons-png.freepik.com/256/2504/2504903.png?ga=GA1.1.129955454.1725203153&semt=ais_hybrid";
 export const TWITTER_URL = "https://x.com/swiggy_in";
 export const TWITTER_SRC_URL = "https://cdn-icons-png.freepik.com/256/14417/14417709.png?ga=GA1.1.129955454.1725203153&semt=ais_hybrid";
+
+// Photos CDN Source
+
+export const PHOTOS_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
